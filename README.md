@@ -20,9 +20,11 @@ Just go to: [Java EE 7 with Angular Demo](https://codenvy.com/f?id=ybnr6nsyrimeo
 Wait for the project to load and then just hit the Green Run Button in the upper right corner. You might want to check a
 few instructions here: [Codenvy setup to demo applications using Docker: Java EE 7 with Angular](http://www.radcortez.com/codenvy-setup-to-demo-applications-using-docker-java-ee-7-with-angular/)
 
-## Localhost ##
+## Tecnologias para el proyecto ##
 
-* You need JDK 7 or higher, Maven 3 and Wildfly 8 or Glassfish 4.1 to run the application.
-* Build the code using Maven with the command: `mvn clean install`.
+* Netbeans 8.1
+* Glassfish 4.0
+* JDK 8
+* 
 
 
