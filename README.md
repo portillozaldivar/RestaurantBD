@@ -1,4 +1,4 @@
-# Java EE 7 - Angular - Sample Application #
+# Java Web Restaurant #
 
 ## Blog posts ##
 
