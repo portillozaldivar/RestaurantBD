@@ -2,11 +2,9 @@
 
 ## Blog posts ##
 
-* [Java EE 7 curso](https://www.youtube.com/playlist?list=PL4D956E5314B9C253)
+* [Java EE 7 curso de java EE](https://www.youtube.com/playlist?list=PL4D956E5314B9C253)
 
-* [Java EE 7 with Angular JS – CRUD, REST, Validations – Part 2](http://www.radcortez.com/java-ee-7-with-angular-js-crud-rest-validations-part-2)
 
-* [Codenvy setup to demo applications using Docker: Java EE 7 with Angular](http://www.radcortez.com/codenvy-setup-to-demo-applications-using-docker-java-ee-7-with-angular/)
 
 ## How to run ? ##
 
